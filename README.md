@@ -1,5 +1,3 @@
-# profootballcoachrandomteams
-
 Anchorage Avengers,AA
 END_PLAYERS
 Boise Bluegolds,BOI
