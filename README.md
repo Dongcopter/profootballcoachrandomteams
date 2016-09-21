@@ -1,16 +1,16 @@
 # profootballcoachrandomteams
-#Anyone thats sick of generated teams now has the option to try different teams for more enjoyment
+
 Anchorage Avengers,AA
 END_PLAYERS
 Boise Bluegolds,BOI
 END_PLAYERS
 Winnipeg Loggers,WIN
 END_PLAYERS
-United Dakotas Sioux, UDS
+United Dakotas Sioux,UDS
 END_PLAYERS
 Jersy Harbormen,NJ
 END_PLAYERS
-Boston Liberty, BOS
+Boston Liberty,BOS
 END_PLAYERS
 Ottawa Canadians,CAN
 END_PLAYERS
